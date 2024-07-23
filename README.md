@@ -10,7 +10,7 @@ This project aims to turn general investment instruments or indices into factors
 
 There is one main source code file, coded on python 3 and ran on Jupyter. It is named "Cluster analysis of GS indices". The data used is included in a seperate excel file and was collected from Bloomberg Terminal. The data is altered due to legal issues. However, the code still works with the altered data.
 
-## Installation instructions:
+## Installation instructions
 
 1. Download all the files
 2. Ensure pandas, numpy, matplotlib, and sklearn are downloaded in the environment
